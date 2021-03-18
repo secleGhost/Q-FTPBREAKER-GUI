@@ -1,0 +1,10 @@
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\bin\Debug\Q-FTPBREAKER GUI.exe.config
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\bin\Debug\Q-FTPBREAKER GUI.exe
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\bin\Debug\Q-FTPBREAKER GUI.pdb
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\obj\Debug\Q-FTPBREAKER GUI.csprojAssemblyReference.cache
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\obj\Debug\Q_FTPBREAKER_GUI.Form1.resources
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\obj\Debug\Q_FTPBREAKER_GUI.Properties.Resources.resources
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\obj\Debug\Q-FTPBREAKER GUI.csproj.GenerateResource.cache
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\obj\Debug\Q-FTPBREAKER GUI.csproj.CoreCompileInputs.cache
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\obj\Debug\Q-FTPBREAKER GUI.exe
+C:\Users\ATE\source\repos\Q-FTPBREAKER GUI\Q-FTPBREAKER GUI\obj\Debug\Q-FTPBREAKER GUI.pdb

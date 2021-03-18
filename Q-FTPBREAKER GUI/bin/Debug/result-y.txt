@@ -1,0 +1,2 @@
+ftp://78.186.194.120:anonymous@ftp
+ftp://78.186.163.196:anonymous@ftp
